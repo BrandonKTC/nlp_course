@@ -1,2 +1,2 @@
-MY BRAND NEW TEXTMY FIRST LINE IN A+ OPENING
-This is an added line, because I used a+ mode
+MY BRAND NEW TEXTMY FIRST LINE IN A+ OPENING/n This is an added line, because I used a+ mode /n
+ This is a real new line
